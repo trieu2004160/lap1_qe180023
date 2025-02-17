@@ -1,7 +1,7 @@
-import Signup from "./lib/Signup";
+import Login from "./components/Login/Login.jsx";
 
 function App() {
-  return <Signup />;
+  return <Login />;
 }
 
 export default App;
